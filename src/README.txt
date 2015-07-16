@@ -3,6 +3,8 @@
 WP-ReplaceGravatarMirror can helps your wordpress blog replace its default gravatar provider(gravatar.com) to a third-part gravatar mirror(duoshuo.com) which can be load faster in somewhere.
 
 [Project in GitHub](https://github.com/limccn/WP-ReplaceGravatarMirror).
+[Project Home](http://www.limc.cn/work/wp-replacegravatarmirror).
+
 
 ## Installation
 
@@ -29,7 +31,7 @@ WP-ReplaceGravatarMirror is released under the [GPL 2.0](http://opensource.org/l
 
 If you need further information of WP-ReplaceGravatarMirror, you can visit the web site of WP-ReplaceGravatarMirror.
 
-- [http://www.limc.cn/WP-ReplaceGravatarMirror](http://www.limc.cn/WP-ReplaceGravatarMirror).
+- [http://www.limc.cn/work/wp-replacegravatarmirror](http://www.limc.cn/work/wp-replacegravatarmirror).
 
 Or Contact us by follow
 
