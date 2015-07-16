@@ -6,7 +6,7 @@ WP-ReplaceGravatarMirror can helps your wordpress blog replace its default grava
 
 ## Installation
 
-1. Upload `WP-ReplaceGravatarMirror` folder to the `/wp-content/plugins/` directory
+1. Upload `wp-replace-gravatar-mirror` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## History, Change Logs
