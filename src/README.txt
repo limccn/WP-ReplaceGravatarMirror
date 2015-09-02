@@ -15,6 +15,9 @@ WP-ReplaceGravatarMirror can helps your wordpress blog replace its default grava
 ###v1.0, `2015-07-14`
 The first stable version released.
 
+###v1.1, `2015-09-01`
+supports both http:// add https://.
+
 ## Contributing
 We encourage everyone to contribute to WP-ReplaceGravatarMirror!
 
